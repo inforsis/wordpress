@@ -1,8 +1,9 @@
 === WP Newsletter Register ===
 Contributors: authornick (this should be a list of wordpress.org userid's)
-Donate link: https://github.com/inforsis/wp-newsletter-register
+Repository link: https://github.com/inforsis/wordpress/tree/master/plugins/wp-newsletter-register
 Tags: keywords, list
 Requires at least: 3.4
+Author: Jadson Moreira | jadson.dev | @inforsis
 Tested up to: 3.4.1
 Stable tag: 1.0
 License: GPLv2 or later
